@@ -11,8 +11,3 @@
     height: 100vh;
     padding: 0 8rem;
 }
-.side{
-    height: 100vh;
-    grid-column: 2;
-    background: var(--brown);
-}
